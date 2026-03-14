@@ -1,0 +1,478 @@
+company_id,operational_name,website,year_founded,employee_count,revenue,country_code,region_name,town,primary_naics_code,is_public
+COMP_00001,Rompetrol,rompetrol.ro,1979,,13498241905.0,ro,Bucharest,Bucharest,324110,False
+COMP_00002,Unilever,unilever.ro,,,12802072204.0,ro,Bucharest,Bucharest,424690,False
+COMP_00003,Rompetrol,rompetrol.com,1974,7000,12664964365.0,ro,Bucharest,Bucharest,324110,False
+COMP_00004,CBRE Romania,cbre.ro,2008,92,9568739216.0,ro,Bucharest,Bucharest,531210,False
+COMP_00005,TIMAC AGRO,timacagro.com,,65,8907855312.0,ro,Bucharest,Bucharest,325311,False
+COMP_00006,OMV,omv.ro,,,6542287157.0,ro,Bucharest,Bucharest,457120,False
+COMP_00007,Compania Națională de Căi Ferate CFR,cfr.ro,1880,54000,5290917696.0,ro,Bucharest,Bucharest,488210,False
+COMP_00008,Mercedes-Benz Trucks & Buses Romania,mercedes-benz-trucks-mbb.ro,,,4801923600.0,ro,Ilfov,Voluntari,441110,False
+COMP_00009,Dacia,dacia.ro,,11026,4495347345.0,ro,Bucharest,Bucharest,336110,False
+COMP_00010,Fildas Trading,fildas.ro,1991,838,3492536857.0,ro,Bucharest,Bucharest,424210,False
+COMP_00011,Portul Constanta,portofconstantza.com,,6000,1727732794.0,ro,Constanța,Constanța,488310,False
+COMP_00012,Bunge Romania,bunge-romania.ro,,,1506056258.0,ro,Bucharest,Bucharest,311224,False
+COMP_00013,Romgaz,romgaz.ro,1909,5287,1383562888.0,ro,Sibiu,Mediaș,211130,True
+COMP_00014,METRO România,metro.ro,1996,810,1300592908.0,ro,Bucharest,Bucharest,424410,False
+COMP_00015,Transgaz,transgaz.ro,2000,4628,1211108198.0,ro,Sibiu,Mediaș,221210,False
+COMP_00016,Poșta Română,posta-romana.ro,1862,25000,1161768432.0,ro,,,491110,False
+COMP_00017,OSCAR,oscars.ro,2001,488,1097857008.0,ro,Bucharest,Bucharest,424720,False
+COMP_00018,Prutul,prutul.ro,1893,162,1054239381.0,ro,Bucharest,Bucharest,311225,False
+COMP_00019,Valtec,valtec.nl,,,1035538334.0,ro,Bucharest,Bucharest,424720,False
+COMP_00020,Valbur,vt-i.eu,2008,,1021169365.0,ro,Constanța,Constanța,423840,False
+COMP_00021,Brasov Industrial Portfolio,brasov-industrialportfolio.ro,,,1000000000.0,ro,Bucharest,Bucharest,493110,False
+COMP_00022,STILL,still.ro,1919,,840574450.0,ro,Ilfov,Dragomirești-Vale,333924,False
+COMP_00023,AQUA CENTER,aquacenter.ro,2004,,762500000.0,ro,Constanța,Constanța,326122,False
+COMP_00024,European Drinks,europeandrinks.ro,1993,4500,727509607.0,ro,Bihor,Oradea,312112,False
+COMP_00025,Colaska,colaska.com,,78,38803077507.0,us,Alaska,Anchorage,237310,False
+COMP_00026,BrandSafway,brandsafway.com,2017,,19739204162.0,us,Georgia,Atlanta,238990,False
+COMP_00027,Fluor,fluor.com,1912,26866,18280370593.0,us,Texas,Irving,237990,True
+COMP_00028,Kiewit,kiewit.com,1884,31100,16310884187.0,us,Nebraska,Omaha,237990,False
+COMP_00029,Lemartec,lemartec.com,1979,170,15779739398.0,us,Florida,Coconut Grove,236220,False
+COMP_00030,Clayton Homes,claytonhomes.com,1956,4500,14947799968.0,us,Tennessee,Maryville,236117,False
+COMP_00031,Brock Group,brockgroup.com,1940,11000,13517299684.0,us,Texas,Deer Park,238990,False
+COMP_00032,Quanta Services,quantaservices.com,1997,40000,13502659521.0,us,Texas,Houston,237130,True
+COMP_00033,BNBuilders,bnbuilders.com,2000,750,11795677155.0,us,Washington,Seattle,236220,False
+COMP_00034,EMCOR Group,emcorgroup.com,1994,40400,11695838612.0,us,Connecticut,Norwalk,238210,True
+COMP_00035,Skanska,skanska.com,1887,33585,11332448300.0,us,,,236220,True
+COMP_00036,Versar,jmwaller.com,,,10811821464.0,us,District of Columbia,Washington,237990,False
+COMP_00037,Bechtel,bechtel.com,1898,44000,10796374639.0,us,Virginia,Reston,237990,False
+COMP_00038,Halmar International,halmarinternational.com,1962,250,10776195538.0,us,New York,Nanuet,237310,False
+COMP_00039,Focus Civil Construction Group,focuscivil.com,1908,,10705547711.0,us,Oregon,Portland,236220,False
+COMP_00040,Tutor Perini,tutorperini.com,1949,10061,10653626941.0,us,California,Los Angeles,236220,True
+COMP_00041,Versar,geo-marine.com,,40,10329342589.0,us,District of Columbia,Washington,237990,False
+COMP_00042,PulteGroup,pultegroup.com,1950,7523,10109819333.0,us,Georgia,Atlanta,236117,True
+COMP_00043,Trusted Solutions Group,tsg28.com,,2,9902488503.0,us,District of Columbia,Washington,236220,False
+COMP_00044,DPR Construction,dpr.com,1990,9000,9530130452.0,us,California,Redwood City,236220,False
+COMP_00045,Mangal Money Transfer,mangalmoneytransfer.co.uk,2013,4,385783.0,gb,England,Edgware,522320,False
+COMP_00046,SkyHarvest,skyharvest.eu,2024,2,,at,Vienna,Vienna,522299,False
+COMP_00047,Aircash,aircash.eu,2015,148,5679645.0,hr,City of Zagreb,City of Zagreb,522320,False
+COMP_00048,EasyKassa,easykassa.at,2016,1,317781.0,at,Lower Austria,Krems an der Donau,522320,False
+COMP_00049,City Exchange,sarafishahr.co.uk,2012,,7434965.0,gb,England,Oldbury,522320,False
+COMP_00050,FGC Money Transfer,fgcexchange.co.uk,2016,,15000000.0,gb,England,Hounslow,522320,False
+COMP_00051,Brink's Solutions Nederland,brinks.nl,2020,327,111012570.0,nl,Utrecht,Utrecht,522320,False
+COMP_00052,Salauddin Global Trading,salauddinglobal.co.uk,2018,,1360243.0,gb,England,London,522320,False
+COMP_00053,ECrowd Invest,,2014,,,es,Catalonia,Barcelona,522299,False
+COMP_00054,CTC FUND,ctcfundlimited.com,2024,,,gb,England,London,522299,False
+COMP_00055,New Payment Innovation,npi.ie,2012,51,32327806.0,ie,Leinster,Dublin,522320,False
+COMP_00056,Phin,phintech.de,2021,,6105946.0,de,Bavaria,Starnberg,522320,False
+COMP_00057,Credito21,credito21.es,2012,,9684255.0,es,Community of Madrid,Madrid,522320,False
+COMP_00058,Folio,folio.no,2018,24,10505233.0,no,Oslo,Oslo,522320,False
+COMP_00059,Ariv Pay,arivpay.com,2020,5,1319900.0,gb,England,London,522320,False
+COMP_00060,Rantum Capital,rantumcapital.de,2013,19,4688320.0,de,Hesse,Frankfurt,522299,False
+COMP_00061,Agility FX,agility-fx.co.uk,2013,26,2354298.0,gb,England,London,522320,False
+COMP_00062,Euro-Rijn Financial Services,erfinancial.services,2020,,17515953.0,nl,North Brabant,Moerdijk,522299,False
+COMP_00063,European Pay,european-pay.fr,2022,2,513657.0,fr,Ile-de-France,Paris,522320,False
+COMP_00064,VIP Exchange,vipexchange.uk,2020,2,196555.0,gb,England,London,522320,False
+COMP_00065,Bizneo HR,bizneo.com,2013,174,24680239.0,es,Community of Madrid,Madrid,513210,False
+COMP_00066,Sincron HR,sincronhr.com,2007,15,1014952.0,ro,Bucharest,Bucharest,513210,False
+COMP_00067,BCS HR Software,bcs.nl,1978,5,1313795.0,nl,North Brabant,'s-Hertogenbosch,513210,False
+COMP_00068,BambooHR,bamboohr.eu,,,63572376.0,ie,Leinster,Dublin,513210,False
+COMP_00069,Pandapé,pandape.com,,171,9154639.0,gb,Scotland,Edinburgh,513210,False
+COMP_00070,Kapsoon,kapsoon.io,,4,808879.0,fr,Provence-Alpes-Côte d'Azur,Marseille,513210,False
+COMP_00071,Ciphr,ciphr.com,1982,230,46103753.0,gb,England,Reading,513210,False
+COMP_00072,Asys,asys.fr,1987,200,41570814.0,fr,Auvergne-Rhône-Alpes,Lyon,513210,False
+COMP_00073,Personio,,2015,,,de,Bavaria,Munich,513210,False
+COMP_00074,quarksUp,quarksup.com,2008,45,11270791.0,fr,Ile-de-France,Paris,513210,False
+COMP_00075,Novative,novative.com,1993,63,15712530.0,ch,Vaud,Nyon,541612,False
+COMP_00076,NOVRH,novrh.com,1986,63,13094806.0,fr,Provence-Alpes-Côte d'Azur,Marseille,513210,False
+COMP_00077,ASCIA,ascia.pt,2016,5,319327.0,pt,Lisbon,Malveira,541511,False
+COMP_00078,Global HR,globalhruk.com,2016,,16466598.0,gb,England,London,513210,False
+COMP_00079,Toba HR Solutions,tobahrsolutions.be,,47,11422499.0,be,East Flanders,Ghent,513210,False
+COMP_00080,Factorial,factorialhr.de,,1,53626.0,es,Catalonia,Barcelona,513210,False
+COMP_00081,Visma YouServe,youserve.nl,2021,281,42795221.0,nl,North Holland,Amsterdam,513210,False
+COMP_00082,HR Campus,hr-campus.ch,1998,271,67588819.0,ch,Zurich,Dübendorf,541612,False
+COMP_00083,Sesame HR,sesamehr.pt,2015,,10638034.0,es,Valencian Community,Valencia,513210,False
+COMP_00084,Virtualia,virtualia.fr,,,9392325.0,fr,Ile-de-France,Puteaux,513210,False
+COMP_00085,Kammi,kammi.fr,2007,10,3775647.0,fr,Ile-de-France,Paris,513210,False
+COMP_00086,ICON HR,iconhrsoftware.azurewebsites.net,,,16466598.0,gb,England,Cramlington,513210,False
+COMP_00087,Cantoriel,cantoriel.fr,2005,30,3220369.0,fr,Pays de la Loire,Saint-Herblain,513210,False
+COMP_00088,Moorepay,moorepay.co.uk,1966,385,27650040.0,gb,England,Manchester,541214,False
+COMP_00089,Foederis,foederis.ch,1998,,15000000.0,ch,Vaud,Etoy,513210,False
+COMP_00090,Buzz HR,buzzhr.co.uk,,,,gb,England,Manchester,513210,False
+COMP_00091,Crocodile,crocodile.hr,2021,41,8774954.0,gb,England,Carlisle,513210,False
+COMP_00092,Sesame HR,sesamehr.es,,373,52906490.0,es,Valencian Community,Valencia,513210,False
+COMP_00093,Sesame HR,sesamehr.com.br,2015,,35460114.0,es,Valencian Community,Valencia,513210,False
+COMP_00094,Paychex,paychex.de,2003,70,5398648.0,de,Hamburg,Hamburg,541214,False
+COMP_00095,Sun RH,sun-e.fr,,,,fr,,,513210,False
+COMP_00096,HRappka,kalendarzkadrowego.pl,,,270440.0,pl,Lublin Voivodeship,Lublin,513210,False
+COMP_00097,Educos,educos.eu,2011,35,12195739.0,lu,Luxembourg,Koerich,513210,False
+COMP_00098,Staff & Go,staffngo.com,,46,5802224.0,fr,Grand Est,Hombourg,513210,False
+COMP_00099,Trakstar,trakstar.nl,2013,,20428573.0,nl,Overijssel,Wierden,513210,False
+COMP_00100,IguanaHR,iguanahr.co.uk,,,6083837.0,gb,England,Shropshire,513210,False
+COMP_00101,Tenea Talent,teneatalent.com,2005,,15000000.0,es,Catalonia,Abrera,513210,False
+COMP_00102,uMan Xpert,uman.pt,2007,29,3161242.0,pt,Porto,São Mamede de Infesta,513210,False
+COMP_00103,Lucca,lucca-software.es,,,,es,Catalonia,Barcelona,513210,False
+COMP_00104,Sesame HR,sesamehr.com,,,15000000.0,es,Valencian Community,Valencia,513210,False
+COMP_00105,INPACT,inpact-paie.fr,1979,27,3095539.0,fr,Auvergne-Rhône-Alpes,Lyon,513210,False
+COMP_00106,Platfohrm,platfohrm.com,1999,2,265635.0,be,Limburg,Hasselt,541612,False
+COMP_00107,Zellis,zellis.com,1963,1400,307376497.0,gb,England,Bristol,513210,False
+COMP_00108,Jooma,jooma-paye.fr,,4,264591.0,fr,Auvergne-Rhône-Alpes,Lyon,513210,False
+COMP_00109,Team2go,team2go.es,,13,1697354.0,es,Andalusia,Seville,513210,False
+COMP_00110,HRWare Consulting,hrware.de,,23,2970533.0,de,Rhineland-Palatinate,Mainz,541512,False
+COMP_00111,UK HR Cloud,ukhrcloud.com,,,9206956.0,gb,England,Manchester,513210,False
+COMP_00112,Safebridge,safebridge.es,2008,,5948036.0,es,Catalonia,Barcelona,513210,False
+COMP_00113,BrightPay,brightpay.ie,2021,,20000000.0,ie,Leinster,The Municipal District of Laytown — Bettystown,513210,False
+COMP_00114,Microtis,microtis.lu,1997,16,8954268.0,lu,Luxembourg,Steinfort,513210,False
+COMP_00115,TrueFoundry,true-foundry.com,,,3208366.0,us,California,San Francisco,513210,False
+COMP_00116,Lumeros AI,lumeros.ai,,10,2119280.0,sg,Singapore,Singapore,541511,False
+COMP_00117,Simplismart,simplismart.ai,,23,9305607.0,in,Karnataka,Bengaluru,541511,False
+COMP_00118,ZenML,zenml.io,2021,17,2199631.0,de,Bavaria,Munich,513210,False
+COMP_00119,Chalk,chalk.ai,,57,25364896.0,us,California,San Francisco,513210,False
+COMP_00120,DeepMorph,deepmorph.xyz,,,,in,Haryana,Gurugram,541512,False
+COMP_00121,DataTorch,datatorch.io,2020,2,822416.0,us,Georgia,Atlanta,513210,False
+COMP_00122,Katana ML,katanaml.io,,1,123663.0,lt,Vilnius County,Vilnius,513210,False
+COMP_00123,trainML,trainml.ai,,,22571289.0,us,Illinois,Oak Park,518210,False
+COMP_00124,Hexo AI,hexo.ai,2022,9,5500000.0,us,California,Santa Clara,513210,False
+COMP_00125,Wizard.AI,thewizard.ai,2021,3,789676.0,us,California,Los Angeles,513210,False
+COMP_00126,Aquarium,aquariumlearning.com,2020,13,3208366.0,us,California,San Francisco,513210,False
+COMP_00127,ARMAI,armai.org,,,10000000.0,de,Hamburg,Hamburg,541512,False
+COMP_00128,Deepstributed,deepstributed.com,2019,1,50298.0,ch,Vaud,Renens,513210,False
+COMP_00129,ZoKorp,zokorp.com,,,,us,Texas,Sugar Land,541512,False
+COMP_00130,Ripley Decision Advantage,ripleydecisionadvantage.net,,,,us,California,Palo Alto,541511,False
+COMP_00131,AIAdvantage,cool-run.click,,,,au,Northern Territory,Alice Springs,541511,False
+COMP_00132,TensorFlow JVM Special Interest Group,,2015,,,us,California,Mountain View,513210,False
+COMP_00133,IML4E,iml4e.org,,,10653913.0,de,Bavaria,Munich,541715,False
+COMP_00134,Stanford DAWN,dawn.cs.stanford.edu,2020,,29659667.0,us,California,Stanford,541715,False
+COMP_00135,Collective Knowledge,cknowledge.org,2019,1,132163.0,fr,Ile-de-France,Paris,513210,False
+COMP_00136,PyCaret,pycaret.org,2020,3,791126.0,ca,Ontario,Toronto,513210,False
+COMP_00137,Prateek Dubey,prateekdubey.com,,,227559.0,sg,Southeast,Bedok,541512,False
+COMP_00138,Vectice,vectice.com,2019,19,4629007.0,us,California,San Francisco,513210,False
+COMP_00139,,icontributetoml.herokuapp.com,,,162104.0,ca,Quebec,Quebec,541715,False
+COMP_00140,Clozon,clozon.com,2014,8,66102.0,in,Karnataka,Bengaluru,541512,False
+COMP_00141,NimbleBox,nimblebox.ai,2018,26,6367300.0,us,California,San Francisco,513210,False
+COMP_00142,Chen Qian,chenmoney.com,,,268562.0,us,California,San Francisco,541511,False
+COMP_00143,Datavisum,datavisum.com.br,,,2000000.0,br,São Paulo,São Caetano do Sul,541512,False
+COMP_00144,feder8.ai,,2019,,,ca,Ontario,Toronto,541715,False
+COMP_00145,Etiq AI,etiq.ai,2019,18,2165739.0,gb,England,London,513210,False
+COMP_00146,DeepSpect,deepspect.de,,,,de,Bavaria,Hilpoltstein,513210,False
+COMP_00147,Efemarai Continuum,efemarai.com,2020,2,531592.0,us,California,Berkeley,513210,False
+COMP_00148,Knowledgator,knowledgator.com,2021,6,759639.0,gb,England,Ruislip,513210,False
+COMP_00149,PMC Optimized,,2022,,,gb,Northern Ireland,Belfast,541512,False
+COMP_00150,Rebataur,rebataur.com,2017,2,13776.0,in,Maharashtra,Pune,513210,False
+COMP_00151,Comet,comet.com,,92,46337194.0,us,New York,New York,513210,False
+COMP_00152,Infer Systems,infer.systems,2016,,9921040.0,gb,England,London,513210,False
+COMP_00153,HighsideAI,highside.ai,,,,us,District of Columbia,Washington,541511,False
+COMP_00154,Pandita.ai,pandita.ai,2023,2,531592.0,us,California,Palo Alto,513210,False
+COMP_00155,AI Partnerships,aipartnershipscorp.com,2020,11,1652391.0,ca,Ontario,Toronto,541512,False
+COMP_00156,Cascadia Pacific,cascadiapacific.com,,,26542732.0,us,Washington,Kirkland,541512,False
+COMP_00157,Omnia AI,getomnia.com,2022,1,268562.0,us,California,San Francisco,518210,False
+COMP_00158,AryaXAI,aryaxai.com,2024,10,64814.0,us,Delaware,Greenville,541511,False
+COMP_00159,ZenLabs,zenlabs.com,2018,8,2269226.0,us,Massachusetts,Cambridge,541512,False
+COMP_00160,Model Share AI,modelshare.ai,2022,1,303968.0,us,New York,New York,513210,False
+COMP_00161,Dylan Zeigler,dylanzeigler.com,,,249993.0,us,Colorado,Denver,541511,False
+COMP_00162,ProximaScale,proximascale.com,2022,,881846.0,ua,Kyiv,Kyiv,541511,False
+COMP_00163,ai2device,ai2device.com,2020,,688999.0,pl,Lesser Poland Voivodeship,Krakow,541330,False
+COMP_00164,Kortical,kortical.com,,12,2434734.0,gb,England,London,513210,False
+COMP_00165,EWP Windtower Production,,2000,,,se,Skåne County,Landskrona,332312,False
+COMP_00166,Hydra Tidal Energy Technology,,2001,,,no,Troms og Finnmark,Harstad,541330,False
+COMP_00167,Siemens Energy,,,,,fi,Uusimaa,Espoo,333611,False
+COMP_00168,Wave Dragon,wavedragon.com,,7,6375659.0,dk,Capital Region of Denmark,Copenhagen,333611,False
+COMP_00169,Moventas,moventas.com,2005,4,184360773.0,fi,Central Finland,Jyväskylä,333612,False
+COMP_00170,ICEWIND,icewind.is,2012,11,18486853.0,is,Iceland,Capital Region,333611,False
+COMP_00171,Ventum Dynamics,ventumdynamics.com,,14,193865443.0,no,Rogaland,Stavanger,333611,False
+COMP_00172,Rögle Vindkraftpark,,,,,se,Skåne County,Ängelholm,333611,False
+COMP_00173,Norhybrid Renewables,norhybrid.com,2020,10,193865443.0,no,Vestfold og Telemark,Porsgrunn,333611,False
+COMP_00174,Tesla Ocean Turbine,teslaoceanturbine.com,,,18481391.0,se,Örebro County,Örebro,333611,False
+COMP_00175,Naust Marine,naust.is,2005,,5500000.0,is,Iceland,Hafnarfjordur,335999,False
+COMP_00176,ENERCON,,1984,,,se,Skåne County,Malmo,221115,False
+COMP_00177,Puhuri,puhuri.fi,2010,20,153633978.0,fi,North Ostrobothnia,Oulunsalo,221115,False
+COMP_00178,Liftra,liftra.com,2003,,80000000.0,dk,North Denmark Region,Aalborg,333120,False
+COMP_00179,windainergy,windainergy.com,,,,se,Västra Götaland County,Göteborgs Stad,333611,False
+COMP_00180,MantaWind,,2018,,,se,Uppsala County,Uppsala kommun,333611,False
+COMP_00181,Aeolos Wind Turbine Company,betaflight.cn,1986,,15000000.0,dk,,,333611,False
+COMP_00182,Vestas,vestas.com,1945,35100,57215276900.0,dk,Central Denmark Region,Aarhus,333611,True
+COMP_00183,Texon,texonsystems.com,2010,,1420425.0,no,Rogaland,Klepp,334413,False
+COMP_00184,Varmalämmitys,varmalammitys.fi,,,79142168.0,fi,South Savo,Pieksämäki,333414,False
+COMP_00185,Carita och Torbjörn,cktl.se,,,,se,Örebro County,Lekebergs kommun,221115,False
+COMP_00186,SideWind,sidewind.is,2019,4,24843385.0,is,Iceland,Reykjavik,333611,False
+COMP_00187,Next Fabrication,nextfabrication.com,2023,4,6343512.0,dk,Central Denmark Region,Aarhus,332312,False
+COMP_00188,International Wind Energy,,2003,,,dk,Central Denmark Region,Aarhus,423690,False
+COMP_00189,Sowin Power,sowinpower.no,,,3000000.0,no,Viken,Nesoddtangen,335999,False
+COMP_00190,World Wide Wind,worldwidewind.no,2021,6,193865443.0,no,Viken,Bærum,333611,False
+COMP_00191,CIRKEL Energi,cirkelenergi.dk,2000,4,122254865.0,dk,Central Denmark Region,Viborg,334413,False
+COMP_00192,Galileo Empower Finland,galileoempower.fi,,,,fi,Uusimaa,Helsinki,221115,False
+COMP_00193,DEIF Wind Power Technology,,1933,,,dk,Central Denmark Region,Skive,333611,False
+COMP_00194,Teqniq,teqniq.fi,,,34057455.0,fi,Ostrobothnia,Vaasa,541330,False
+COMP_00195,JN-Solar,jn-solar.fi,2007,,,fi,Satakunta,Säkylä,335999,False
+COMP_00196,Finnwind,finnwind.fi,1993,6,92180387.0,fi,Pirkanmaa,Lempäälä,333611,False
+COMP_00197,Winergy Finland,,1981,,,fi,Central Finland,Jyväskylä,333611,False
+COMP_00198,Pellbin Turbine,pellbin.se,,,,se,Stockholm County,Sundbyberg,333611,False
+COMP_00199,Sunnytek,sunnytek.se,,,432857.0,se,Stockholm County,Ekerö,335999,False
+COMP_00200,WindSpider,windspider.com,2020,10,193865443.0,no,Rogaland,Sandnes,333120,False
+COMP_00201,Norwin Energy,norwinenergy.com,2011,1,122254865.0,dk,Capital Region of Denmark,Copenhagen,333611,False
+COMP_00202,Fallorka,fallorka.is,,,135791654.0,is,Iceland,Akureyrarbær,333611,False
+COMP_00203,Verta,,2023,,,no,Rogaland,Stavanger,333611,False
+COMP_00204,Rhino Power,rhinopower.fi,2009,,16095954.0,fi,Kanta-Häme,Läyliäinen,335999,False
+COMP_00205,VASOL TECH,vasol.se,,6,,se,Stockholm County,Stockholm,335999,False
+COMP_00206,Sol Industries,sol-ind.com,,,,no,Rogaland,Klepp,333611,False
+COMP_00207,Krefter,krefter.no,2021,1,10114124.0,no,Oslo,Oslo,518210,False
+COMP_00208,Erikshester Vindpark,vindparken.se,,,101017584.0,se,Jönköping County,Vetlanda kommun,333611,False
+COMP_00209,Envision Energy Denmark,,2007,,,dk,Central Denmark Region,Silkeborg,333611,False
+COMP_00210,Ecopwr,ecopwr.se,,,5270173.0,se,Värmland County,Säffle,335999,False
+COMP_00211,DEIF,deif.com,1933,640,173126619.0,dk,Central Denmark Region,Skive,335314,False
+COMP_00212,Logic-Energy,teunhulst.nl,,,,dk,,,333611,False
+COMP_00213,Bioener,,2002,,,dk,Capital Region of Denmark,Brøndby,333414,False
+COMP_00214,Fred. Olsen 1848,fredolsen1848.com,2021,15,54750063.0,no,Oslo,Oslo,333611,False
+COMP_00215,Walmart,walmart.com,1962,2100000,2500388591944.0,us,Arkansas,Bentonville,455211,True
+COMP_00216,Dell Technologies,dell.com,1984,120000,151451288062.0,au,New South Wales,Chatswood,334111,False
+COMP_00217,The Home Depot,homedepot.com,1978,470100,97712052923.0,us,Georgia,Atlanta,444110,True
+COMP_00218,US Foods,usfoods.com,1989,30000,52277062029.0,us,Illinois,Rosemont,424410,True
+COMP_00219,Decathlon,decathlon.com,1976,101000,43257972115.0,fr,Hauts-de-France,Villeneuve-d'Ascq,459110,False
+COMP_00220,Forever 21,forever21.com,1984,43000,36400423080.0,us,New York,New York,455110,False
+COMP_00221,"nothing,nowhere",nothingnowhere.net,2005,29000,31011144015.0,us,Colorado,Orchard City,512250,False
+COMP_00222,Nippon Paint Singapore,nipponpaint.com.sg,1962,6,30247631015.0,sg,Singapore,Singapore,325510,False
+COMP_00223,Gillette,gillette.com,1901,29000,28602955628.0,us,Ohio,Cincinnati,339999,False
+COMP_00224,Coles,coles.com.au,1914,120000,27260006458.0,au,Victoria,Hawthorn East,445110,False
+COMP_00225,Hy-Vee,hy-vee.com,1930,93000,24807625950.0,us,,,445110,False
+COMP_00226,DaVinci Gourmet,davincigourmet.com,1989,26000,24140277671.0,ie,Munster,Tralee,312111,False
+COMP_00227,Dior,dior.com,1946,196006,17584965164.0,fr,,,315250,False
+COMP_00228,H&M Home,hm.com,,101000,15810524400.0,kw,Al Asimah,Kuwait City,458110,False
+COMP_00229,Avery,avery.com,,35000,14055555396.0,us,Ohio,Strongsville,322230,False
+COMP_00230,Nespresso,nespresso.com,1986,13500,13537939476.0,kr,Seoul,Seoul,311920,False
+COMP_00231,Produit en Bretagne,produitenbretagne.bzh,1993,1,12910982151.0,fr,Brittany,Brest,813410,False
+COMP_00232,Kohler,kohler.co.nz,,,12896977134.0,nz,Auckland,Auckland,332913,False
+COMP_00233,Hako,hakoaustralia.com.au,1984,29,12506099722.0,au,New South Wales,Silverwater,333310,False
+COMP_00234,DrinkAriZona,drinkarizona.com,1992,10000,11008332968.0,us,Ohio,Cincinnati,312111,False
+COMP_00235,Decathlon,decathlon.it,1993,105000,10993493829.0,it,Lombardy,Lissone,459110,False
+COMP_00236,BTN de Haas,btndehaas.nl,1925,18,10654512872.0,nl,Groningen,Groningen,424910,False
+COMP_00237,Coop Sleep Goods,coopsleepgoods.com,,19000,10645810368.0,us,California,Los Angeles,337910,False
+COMP_00238,PEZ Candy,pez.com,1927,110,10573379296.0,us,Connecticut,Orange,311340,False
+COMP_00239,Ford Credit,ford.co.uk,,8500,10286325135.0,gb,England,Manchester,336310,False
+COMP_00240,"Toys""R""Us",toysrus.com,,64000,10178146941.0,us,New Jersey,Parsippany-Troy Hills,459120,False
+COMP_00241,Harbor Freight,harborfreight.com,1977,28000,9357146316.0,us,California,Calabasas,444140,False
+COMP_00242,Lululemon,lululemon.com,1998,39000,9309007637.0,us,,,458110,True
+COMP_00243,Roca,roca.es,1917,8,8586393550.0,es,Catalonia,Barcelona,332913,False
+COMP_00244,Aotea Wellness,aoteanz.com,,47,8530422649.0,nz,Auckland,Auckland,325620,False
+COMP_00245,Aromas Coffee Roasters,aromas.com.au,1982,3,7292718659.0,au,Queensland,Loganholme,311920,False
+COMP_00246,RAW Rolling Papers,rawthentic.com,1995,2000,7283511532.0,us,Arizona,Phoenix,322299,False
+COMP_00247,Goya Foods,goya.com,1936,4000,7113200965.0,us,New Jersey,Jersey City,311999,False
+COMP_00248,Central de Envasados,centralenvasados.com,1988,29,20368963.0,es,Community of Madrid,Alcalá de Henares,326199,False
+COMP_00249,BAOLILONG GLASS PACKAGING,baolilongglasspackaging.com,2018,,,cn,Guangdong Province,,327213,False
+COMP_00250,Vetipak,,1997,,,nl,North Brabant,Oss,326199,False
+COMP_00251,Minh Trang Packaging,xuongchailominhtrang.com,2023,,1257035.0,vn,Hồ Chí Minh City,Ho Chi Minh City Saigon,326160,False
+COMP_00252,Silver Spur,silverspurcorp.com,1978,39,76684623.0,us,California,Cerritos,326199,False
+COMP_00253,Aurelo Packaging Co,aurelopackaging.com.au,,,,au,New South Wales,St Leonards,327213,False
+COMP_00254,Crystal International,crystalintl.com,1991,48,15130452.0,ca,Ontario,Toronto,326199,False
+COMP_00255,SHEACK Packaging,sheackpkg.com,2015,7,5239575.0,cn,Shanghai,Shanghai,326199,False
+COMP_00256,Wenjing Packaging,wenjingpack.com,2016,,,cn,Shanxi,Jincheng,326160,False
+COMP_00257,YONWOO,yonwookorea.com,1983,57,26732731.0,kr,Incheon,Incheon,326160,False
+COMP_00258,Lesopack Cos Packaging,cospackaging.com.au,2010,,,au,Victoria,Melbourne,326160,False
+COMP_00259,Shanghai Bochen Cosmetic Packaging,cncosmeticbottles.com,1994,,5239575.0,cn,Shanghai,Fengxian District,326160,False
+COMP_00260,SZ SJ Packaging,szsjpackaging.com,2005,,,cn,Guangdong Province,Shenzhen,326199,False
+COMP_00261,Ningbo Onson,onsonpackaging.com,2005,,,cn,Zhejiang,Ningbo,326199,False
+COMP_00262,Yijie Packaging,yijiepackaging.en.alibaba.com,,,,cn,Zhejiang,Yongkang,327213,False
+COMP_00263,Shenzhen Itop Cosmetic Packaging,itoppacking.com,,,5239575.0,cn,Guangdong Province,Pingshan District,326160,False
+COMP_00264,,seycosmetics.co.uk,,,62599067.0,us,Florida,Tampa,325620,False
+COMP_00265,Standard Mold,standardmold.co.kr,,,13366365.0,kr,Gyeonggi,Anyang-si,326199,False
+COMP_00266,Flextribe,flextribe.co,,,,us,Texas,Austin,322219,False
+COMP_00267,Sunshine Packaging,hzshengsha.com,2016,,,cn,Zhejiang,Hangzhou,326160,False
+COMP_00268,Tata Consultancy Services,tcs.com,1968,607979,5009783346.0,in,Maharashtra,Mumbai,541512,True
+COMP_00269,Concentrix,concentrix.com,2000,440000,146777605645.0,us,California,Newark,541512,True
+COMP_00270,Capgemini,capgemini.com,1967,341100,53148270656.0,ca,Ontario,Toronto,541512,True
+COMP_00271,Wipro,wipro.com,1945,233346,2017157539.0,in,Karnataka,Doddakannelli,541512,True
+COMP_00272,DWS Group,hcltech.com,1991,227481,1580480112.0,au,Victoria,Melbourne,541512,True
+COMP_00273,NTT DATA,nttdata.com,1988,195100,24097971365.0,jp,Tokyo,Tokyo,541512,True
+COMP_00274,Genpact,genpact.com,1997,125000,47195522844.0,us,,,541512,True
+COMP_00275,Fujitsu,fujitsu.com,1935,124000,56668130586.0,jp,Kanagawa Prefecture,Kawasaki,541512,True
+COMP_00276,Telefónica Venture Builder,telefonica.com,,100870,16873072935.0,es,Community of Madrid,Madrid,541512,True
+COMP_00277,CGI,cgi.com,1976,95000,19128497746.0,ca,Quebec,Montreal,541512,True
+COMP_00278,Atos,atos.net,2000,94000,14646547762.0,fr,Ile-de-France,Bezons,541512,True
+COMP_00279,EPAM,epam.com,1993,62050,13373358770.0,us,Pennsylvania,Newtown,541511,True
+COMP_00280,Leidos,leidos.com,1969,48000,27977712699.0,us,Virginia,Reston,541512,True
+COMP_00281,Booz Allen,boozallen.com,1914,34200,6739043686.0,us,Virginia,McLean,541512,True
+COMP_00282,Mphasis,mphasis.com,1998,31645,219861409.0,us,New York,New York,541512,True
+COMP_00283,Globant,globant.com,2003,29150,1178707576.0,lu,Luxembourg,Luxembourg,541512,True
+COMP_00284,SAIC,saic.com,1969,25000,7044681709.0,us,Virginia,Reston,541512,True
+COMP_00285,Tietoevry,tietoevry.com,1968,23632,4334057488.0,fi,Uusimaa,Espoo,541512,True
+COMP_00286,ASGN,asgn.com,1985,21000,5917532636.0,us,Virginia,Glen Allen,541512,True
+COMP_00287,CACI,caci.com,1962,20000,5635745368.0,us,Virginia,Reston,541512,True
+COMP_00288,Yeşil Bir Gelecek,yesilbirgelecek.com,2025,1,29383.0,tr,Konya,Selçuklu,541620,False
+COMP_00289,Mon BE Fluides,monbefluides.fr,2025,3,399621.0,fr,Brittany,Rennes,541330,False
+COMP_00290,CSI Compass,csicompass.co.uk,2025,7,953217.0,gb,England,London,541330,False
+COMP_00291,Volta Capital,voltacapital.it,2025,1,442431.0,it,Emilia-Romagna,Riccione,541690,False
+COMP_00292,Utilify,utilifyapp.com,2025,1,487116.0,us,New York,New York,541690,False
+COMP_00293,Planethon,planethon.io,2025,9,1040515.0,se,Stockholm County,Stockholm,541611,False
+COMP_00294,RX-WATERTEC,rx-watertec.com,2025,6,1014973.0,de,Baden-Württemberg,Karlsruhe,541330,False
+COMP_00295,Tri Hita Consulting,trihita-consulting.com,2025,16,193177.0,id,Bali,Denpasar,541618,False
+COMP_00296,GT Solve,globaltechsolve.com,2025,2,25250.0,in,Tamil Nādu,Chennai,541330,False
+COMP_00297,Verdantika,verdantika.co.in,2025,1,7524.0,in,Haryana,Gurugram,541618,False
+COMP_00298,Solarschmiede,solarschmiede.ch,2025,2,,ch,Bern,Belp,541330,False
+COMP_00299,Auratech Engineering,auratechpro.it,2025,1,8057476.0,it,Lombardy,Olgiate Comasco,541330,False
+COMP_00300,Sintea,sintea.eu,2025,8,1159938.0,it,Emilia-Romagna,San Giorgio di Piano,541690,False
+COMP_00301,Agir&Tude,agiretude.fr,2025,1,135612.0,fr,Pays de la Loire,Oudon,541330,False
+COMP_00302,Terzic Urban Engineering,terziceng.ch,2025,1,291661.0,ch,Ticino,Muralto,541330,False
+COMP_00303,BrightLNK,brightlnk.com,2025,3,1550509.0,us,,,541330,False
+COMP_00304,Inside Edge,inside-edge.co.uk,2025,1,143246.0,gb,England,Henley-on-Thames,541611,False
+COMP_00305,visusta,visusta.ch,2025,2,576061.0,ch,Lucerne,Hochdorf,541620,False
+COMP_00306,Auxeris Consulting,auxerisconsulting.com,2025,1,325449.0,us,Massachusetts,Cambridge,541611,False
+COMP_00307,Enviroway Advisory,envirowayadvisory.com,2025,5,1100196.0,ar,Autonomous City of Buenos Aires,Buenos Aires,541690,False
+COMP_00308,IΔU,idu.gr,2025,3,186658.0,gr,Attica,Marousi,541310,False
+COMP_00309,ValfryX,valfryx.com,2025,17,,es,Valencian Community,Valencia,541330,False
+COMP_00310,Ecoviso,ecoviso.fr,2025,1,119185.0,fr,Provence-Alpes-Côte d'Azur,Marseille,541620,False
+COMP_00311,WBS Mobility,e-way24.pl,2025,10,10000000.0,pl,Masovian Voivodeship,Warsaw,221122,False
+COMP_00312,Energy-Technik,energy-technik.com,2025,1,,eg,Giza,Giza,541330,False
+COMP_00313,MA-Engineering,ma-engineering.ch,2025,3,857597.0,ch,Zurich,Zurich,541330,False
+COMP_00314,Energi og Byggestyring,byggestyr.dk,2025,,,dk,Capital Region of Denmark,Herlev,541611,False
+COMP_00315,Algavo,algavo.com,2025,2,703951.0,no,Vestfold og Telemark,Sandefjord,541690,False
+COMP_00316,PACE,pace-energy.eu,2025,3,500645.0,be,Brussels-Capital,Brussels,541330,False
+COMP_00317,Styri,styri.eu,2025,4,1271015.0,no,Oslo,Oslo,541330,False
+COMP_00318,Forest Foods,forestfoods.ca,2025,2,544420.0,ca,British Columbia,New Westminster,541611,False
+COMP_00319,ECÉA,ecea.com.br,2025,1,24683.0,br,Santa Catarina,Navegantes,541620,False
+COMP_00320,Archipel Bouwadvies,archipelbouwadvies.nl,2025,2,351764.0,nl,South Holland,The Hague,541310,False
+COMP_00321,YUMANA Lab,yumanalab.com,2025,1,92542.0,es,Autonomous Community of the Basque Country,Bilbao,541611,False
+COMP_00322,London Climate Ready Partnership,climatelondon.org,2024,2,1379542.0,gb,England,London,541620,False
+COMP_00323,EnviPro,envipro.fi,2024,8,1057446.0,fi,Uusimaa,Helsinki,541620,False
+COMP_00324,Nakama,nakama-agro.es,2024,2,194060.0,es,Andalusia,Almeria,541690,False
+COMP_00325,Asvata,asvata.com,2024,7,49957.0,in,Maharashtra,Mumbai,541620,False
+COMP_00326,OLYMPIAN OPTIMIZATIONS,olympianopt.com,2024,2,131787.0,gr,Thessaly,Larissa,541330,False
+COMP_00327,TerraGreen,terragreen-solutions.com,2024,5,650994.0,de,Berlin,Berlin,541620,False
+COMP_00328,MCR Proyectos,mcrproyectos.cl,2024,1,,cl,Región Metropolitana de Santiago,Santiago,541330,False
+COMP_00329,NextGEN Energy,nextgen-energy.eu,2024,5,793607.0,it,Veneto,Quinto di Treviso,541330,False
+COMP_00330,EcoExpert Green Consulting,ecoexpert.green,2024,3,124714.0,ro,Bihor,Oradea,541620,False
+COMP_00331,E-Lyte,e-lyte.de,2019,34,7531907.0,de,Rhineland-Palatinate,Kaiserslautern,325998,False
+COMP_00332,Wanbang New Energy,scusne.com,2019,,,cn,Sichuan,Dongpo,335910,False
+COMP_00333,Solid Power,solidpowerbattery.com,,206,85415079.0,us,Colorado,Louisville,335910,False
+COMP_00334,NexTech Batteries,nextechbatteries.com,2016,9,43479170.0,us,Nevada,Carson City,335910,False
+COMP_00335,Blue New Energy Technology,lionteam.com.cn,2024,,,cn,Zhejiang,Shaoxing,335999,False
+COMP_00336,GuTai Battery Technology,goodtimebattery.com,2022,,9130445.0,cn,Guangdong Province,Shenzhen,335999,False
+COMP_00337,SolidEdge Solution,solidedgesolution.com,2021,17,18333244.0,tw,Hsinchu,East District,335910,False
+COMP_00338,Poly Energy,polyenergy.tech,2015,,,hk,Hong Kong,Kowloon,335910,False
+COMP_00339,RJETech,,2022,,,cn,Guangdong Province,Guangzhou,335910,False
+COMP_00340,Sili Energy,silienergy.kr,,,,kr,Daejeon,Daejeon,335910,False
+COMP_00341,Hisun,thehisun.com,2022,,,us,Texas,Crosby,325180,False
+COMP_00342,Rongbai Lithium Battery,ronbaymat.com,2014,14,781783.0,cn,Zhejiang,Yuyao,325180,False
+COMP_00343,RUSTOR,russianstorage.ru,,,5610317.0,ru,Primorsky Krai,Shkotovsky District,325180,False
+COMP_00344,FeovaEnergy,feovaenergy.com,2010,,14617795.0,sg,Singapore,,325180,False
+COMP_00345,Li Hongte,lihongte.com,,,,cn,Shaanxi,Xi'an,325180,False
+COMP_00346,Altmin,altmin.in,,16,865718.0,in,Telangana,Hyderabad,325180,False
+COMP_00347,Dongdao New Energy,dongdaochina.cn,2011,,9130445.0,cn,Guangdong Province,Zhanjiang,325180,False
+COMP_00348,RJETech,rjetech.com,2022,2,120689.0,cn,Guangdong Province,Guangzhou,335910,False
+COMP_00349,East Saint先行,ayxxgbyy.com.cn,1999,,6391311.0,cn,Henan,Beiguan,335910,False
+COMP_00350,Yide New Energy,hunanyide.com,2019,,6208702.0,cn,Hunan,Shaoshan,325180,False
+COMP_00351,POLYENTECH,polyentech.com,2021,,7608704.0,cn,Guangdong Province,Foshan,325180,False
+COMP_00352,BTR New Material Group,,2000,,,cn,Guangdong Province,Shenzhen,325180,False
+COMP_00353,Zhejiang Shengmei Lithium Battery Materials,zjsmld.com,2020,,15427116.0,cn,Zhejiang,Jinhua,325180,False
+COMP_00354,"Hunan Yueneng New Energy Battery Material Co., Ltd.",hunanyuneng.com,,,7608704.0,cn,Hunan,Yuhu,325180,False
+COMP_00355,Nanjing Blue Solid New Energy,liongo.com.cn,2021,,4565222.0,cn,Jiangsu,Liyang,325180,False
+COMP_00356,Charge CCCV,chargecccv.com,2013,45,37811839.0,us,New York,Binghamton,335910,False
+COMP_00357,Nuvvon,nuvvon.com,2022,9,30370795.0,us,New Jersey,Parsippany-Troy Hills,335910,False
+COMP_00358,QuantumScape,quantumscape.com,2010,850,568156574.0,us,California,San Jose,335910,True
+COMP_00359,Taibang New Energy,ctlne.com,,3,9130445.0,cn,Chongqing,,335910,False
+COMP_00360,CIDEcell,cidecell.com,,,10648441.0,es,Autonomous Community of the Basque Country,San Sebastián,335910,False
+COMP_00361,BASF Shanshan Battery Materials,,2003,,,cn,Hunan,Changsha,325180,False
+COMP_00362,Kunlun New Materials,kunlunchem.com.cn,2004,,25000000.0,cn,Hebei,,325180,False
+COMP_00363,Sepion Technologies,sepiontechnologies.com,,23,33407512.0,us,California,Alameda,335999,False
+COMP_00364,Mitra Chem,mitrachem.com,2021,60,10152175.0,us,California,Mountain View,335910,False
+COMP_00365,Shenzhen Atsm Energy,atsmlab.en.alibaba.com,2024,,,cn,Guangdong Province,Tianhe District,325180,False
+COMP_00366,Fengyang Pengen,pennenergy.cn,2016,,7608704.0,cn,Anhui,Fuyang,335910,False
+COMP_00367,Rusaccum,rusaccum.ru,2021,,5610317.0,ru,Saint Petersburg,Saint Petersburg,335910,False
+COMP_00368,Nascent Materials,nascentmaterials.com,,2,30370795.0,us,New Jersey,Newark,335910,False
+COMP_00369,Anda Technology,ad-lib.cn,1996,,,cn,Guizhou,Guiyang,335910,False
+COMP_00370,Hengchuang,hengtron.com,2022,,4565222.0,cn,Jiangsu,Yancheng City,325180,False
+COMP_00371,Shanshan Technology,shanshan.fi,,,,fi,Ostrobothnia,Vaasa,325180,False
+COMP_00372,Shan Shan Technology,shanshantech.com,1999,,32500000.0,cn,Shanghai,Pudong,325998,False
+COMP_00373,Hunan TianTai TianRun New Energy Technology,tttrnet.com,2016,,,cn,Hunan,Jinshi,325180,False
+COMP_00374,Indonesia BTR New Energy Material,,2023,,,id,Central Java,Kendal,335910,False
+COMP_00375,Greenbatt Technology,greenbatt.ch,2017,,,ch,Zug,Baar,335910,False
+COMP_00376,You Shan Technology,youshan.com,2018,3,7608704.0,cn,Zhejiang,Jiaxing,325180,False
+COMP_00377,ReFire_ev,,,,,in,Delhi,New Delhi,335910,False
+COMP_00378,Stratus Materials,stratusmaterials.com,2022,24,26855378.0,us,Pennsylvania,Pittsburgh,325180,False
+COMP_00379,Zakuro,zakurobattery.com,,3,23290678.0,us,Michigan,Ann Arbor,335910,False
+COMP_00380,Xinliyuan,jsxlytech.com,2023,,,cn,Jiangsu,Yangzhou,335910,False
+COMP_00381,La Péro,la-pero.fr,2023,3,823062.0,fr,Auvergne-Rhône-Alpes,Givors,312130,False
+COMP_00382,L'Essinganaise,lessinganaise.com,,,200000.0,fr,Centre-Val de Loire,Vallières-les-Grandes,311422,False
+COMP_00383,Paniers d'Eve,,,,,fr,Occitania,Canet,311421,False
+COMP_00384,LA MULTILOCALE,lamultilocale.org,,,674028.0,fr,Provence-Alpes-Côte d'Azur,Solliès-Toucas,311999,False
+COMP_00385,Yumi,yumi.fr,2014,57,19324067.0,fr,Ile-de-France,Paris,312111,False
+COMP_00386,Domaine Godeau,,,,,fr,Pays de la Loire,Beaulieu-sur-Layon,312130,False
+COMP_00387,Famille Pouille,pouille.eu,,,200000.0,fr,Auvergne-Rhône-Alpes,Bonneville,311999,False
+COMP_00388,MILHADE Vins & Spiritueux,,1938,,,fr,Nouvelle-Aquitaine,Libourne,312130,False
+COMP_00389,La Limonaderie de Paris,lalimonaderiedeparis.com,2019,4,5436390.0,fr,Ile-de-France,Nanterre,312111,False
+COMP_00390,Auvergnat Cola,auvergnatcola.com,,,34072143.0,fr,Auvergne-Rhône-Alpes,Lempdes,312111,False
+COMP_00391,Fermenting & Co,fermentingandco.fr,2021,3,4448170.0,fr,Pays de la Loire,Les Sables-d'Olonne,312111,False
+COMP_00392,INOU,inou.fr,,,14930077.0,fr,Ile-de-France,Paris,311421,False
+COMP_00393,Conserverie Fourmi,conserverie-fourmi.fr,2020,2,712711.0,fr,Brittany,Rennes,311421,False
+COMP_00394,Geyer,,1895,,,fr,Ile-de-France,Paris,312111,False
+COMP_00395,Kermené,kermene.fr,1978,1013,1288290730.0,fr,Brittany,Le Mené,311612,False
+COMP_00396,GreenLeaf Mate,greenleaf-mate.com,2023,,,fr,Ile-de-France,Levallois-Perret,312111,False
+COMP_00397,Elixia,elixia.bio,1856,,875000.0,fr,Bourgogne-Franche-Comté,Champagnole,312111,False
+COMP_00398,Club-Mate,club-mate.fr,2014,19,56786905.0,fr,Ile-de-France,Paris,312111,False
+COMP_00399,Riviera Kombucha,rivierakombucha.com,2019,,4540894.0,fr,Provence-Alpes-Côte d'Azur,Grasse,312111,False
+COMP_00400,Dechelette Estate,,,,,fr,Auvergne-Rhône-Alpes,Belleville-en-Beaujolais,312130,False
+COMP_00401,International Wind Energy,,2003,,,dk,Central Denmark Region,Aarhus,423690,False
+COMP_00402,Thyborøn Sydhavn 2 | Vestas-mølle,thybsydhavnmolle-2.dk,,,19506407.0,dk,Central Denmark Region,Lemvig,333611,False
+COMP_00403,Climatico,climatico.dk,,,,dk,Capital Region of Denmark,Frederiksværk,333611,False
+COMP_00404,Erikshester Vindpark,vindparken.se,,,101017584.0,se,Jönköping County,Vetlanda kommun,333611,False
+COMP_00405,windainergy,windainergy.com,,,,se,Västra Götaland County,Göteborgs Stad,333611,False
+COMP_00406,Fastnet,fastnet.se,2004,3,14264324.0,se,Västra Götaland County,Gothenburg,541330,False
+COMP_00407,Logic-Energy,teunhulst.nl,,,,dk,,,333611,False
+COMP_00408,Next Fabrication,nextfabrication.com,2023,4,6343512.0,dk,Central Denmark Region,Aarhus,332312,False
+COMP_00409,Effecta Energy Solutions,effecta.se,1982,7,2500000.0,se,Halland County,Kungsbacka,333414,False
+COMP_00410,Fred. Olsen 1848,fredolsen1848.com,2021,15,54750063.0,no,Oslo,Oslo,333611,False
+COMP_00411,KVA Wind,kva-vind.dk,,,34725558.0,dk,Central Denmark Region,Skjern,333611,False
+COMP_00412,David Nyren,davidnyren.se,,,560179.0,se,Västra Götaland County,Lindome,334413,False
+COMP_00413,Envision Energy Denmark,,2007,,,dk,Central Denmark Region,Silkeborg,333611,False
+COMP_00414,Verta,,2023,,,no,Rogaland,Stavanger,333611,False
+COMP_00415,Norhybrid Renewables,norhybrid.com,2020,10,193865443.0,no,Vestfold og Telemark,Porsgrunn,333611,False
+COMP_00416,MantaWind,,2018,,,se,Uppsala County,Uppsala kommun,333611,False
+COMP_00417,Enercon,,,,,se,Västra Götaland County,Skara,333611,False
+COMP_00418,Sola Markis & Persienn,solamarkis.se,,,,se,Värmland County,Karlstad,334413,False
+COMP_00419,Kraftkar Energi,kraftkarenergi.no,,,2755972.0,no,Viken,Ål,221114,False
+COMP_00420,Lundeseter Solcellepark,lscp.no,,,,no,Innlandet,Kongsvinger,334413,False
+COMP_00421,Alotta,alotta.no,2020,11,5500000.0,no,Møre og Romsdal,Ålesund,335999,False
+COMP_00422,Magnora,magnoraasa.com,2018,23,193865443.0,no,Oslo,Oslo,237130,True
+COMP_00423,Navitas,nace.dk,2012,,623825.0,dk,Central Denmark Region,Aarhus,541330,False
+COMP_00424,World Wide Wind,worldwidewind.no,2021,6,193865443.0,no,Viken,Bærum,333611,False
+COMP_00425,Againity,againity.com,2013,26,14264324.0,se,Östergötland County,Norrköping,333611,False
+COMP_00426,Rögle Vindkraftpark,,,,,se,Skåne County,Ängelholm,333611,False
+COMP_00427,SVENO,sveno.no,2016,,,no,Rogaland,Sandnes,332312,False
+COMP_00428,Sol Industries,sol-ind.com,,,,no,Rogaland,Klepp,333611,False
+COMP_00429,BRF Vivstavarvsvägen,vivstavarvsvagen.se,2025,,1378770.0,se,Stockholm County,Stockholm,335999,False
+COMP_00430,DEIF Wind Power Technology,,1933,,,dk,Central Denmark Region,Skive,333611,False
+COMP_00431,Sembakken,sembakken.dk,,,2332667.0,dk,,,334413,False
+COMP_00432,Wave Dragon,wavedragon.com,,7,6375659.0,dk,Capital Region of Denmark,Copenhagen,333611,False
+COMP_00433,Carita och Torbjörn,cktl.se,,,,se,Örebro County,Lekebergs kommun,221115,False
+COMP_00434,CIRKEL Energi,cirkelenergi.dk,2000,4,122254865.0,dk,Central Denmark Region,Viborg,334413,False
+COMP_00435,BlueTec Vest,bluetecvest.no,,,18970982.0,no,Vestland,Årdal,334413,False
+COMP_00436,Parkasol,parkasol.se,,1,767770.0,se,Gävleborg County,Bollnäs,332311,False
+COMP_00437,Home Energy,homeenergy.se,,,14264324.0,se,Skåne County,Malmo,423610,False
+COMP_00438,BayWa r.e. Scandinavia,,2006,,,se,Skåne County,Malmo,334413,False
+COMP_00439,Tesla Ocean Turbine,teslaoceanturbine.com,,,18481391.0,se,Örebro County,Örebro,333611,False
+COMP_00440,IKM InWind,,2021,,,no,Rogaland,Sola,811310,False
+COMP_00441,ENERCON,,1984,,,se,Skåne County,Malmo,221115,False
+COMP_00442,WindSpider,windspider.com,2020,10,193865443.0,no,Rogaland,Sandnes,333120,False
+COMP_00443,Folksol,folksol.se,,,,se,Stockholm County,Täby kommun,334413,False
+COMP_00444,Novartis,novartis.com,1996,75883,116048058215.0,ch,Basel-City,Basel,325412,True
+COMP_00445,Lonza,lonza.com,1897,18000,13543505187.0,ch,Basel-City,Basel,325412,True
+COMP_00446,Octapharma,octapharma.com,1983,11141,10919439571.0,ch,Schwyz,Lachen,325414,False
+COMP_00447,Nestlé Health Science,nestlehealthscience.com,2011,11000,16822327008.0,ch,Vaud,Vevey,325411,False
+COMP_00448,Ferring,ferring.com,1950,7000,10705117187.0,ch,Vaud,Saint-Prex,325412,False
+COMP_00449,Galderma,galderma.com,1981,6500,21730045319.0,ch,Zug,Zug,325412,False
+COMP_00450,Sumitomo Pharma Switzerland,sumitomo-pharma.com,2023,6250,3530647340.0,ch,Basel-City,Basel,325412,False
+COMP_00451,Lonza Capsules & Health Ingredients,capsugel.com,,3600,4993128661.0,ch,Basel-City,Basel,325412,False
+COMP_00452,Siegfried,siegfried.ch,1873,3500,2105055517.0,ch,Aargau,Zofingen,325411,True
+COMP_00453,PSI CRO,psi-cro.com,1995,2603,12383946.0,ch,Zug,Zug,541715,False
+COMP_00454,Acino,acino.swiss,2008,2473,3781964972.0,ch,Zurich,Zurich,325412,False
+COMP_00455,CordenPharma,cordenpharma.com,2006,1789,4664372489.0,ch,Basel-City,Basel,325412,False
+COMP_00456,PolyPeptide,polypeptide.com,1996,1300,1988093192.0,ch,Zug,Baar,325412,False
+COMP_00457,Idorsia,idorsia.com,2017,1200,1835162946.0,ch,Basel-Landschaft,Allschwil,325412,False
+COMP_00458,Stallergenes Greer,stallergenesgreer.com,2015,1129,418120772.0,ch,Zug,Baar,325412,False
+COMP_00459,IBSA,ibsagroup.com,1945,1064,1627177812.0,ch,Ticino,Lugano,325412,False
+COMP_00460,Bachem,bachem.com,1971,1057,1035979502.0,ch,Basel-Landschaft,Bubendorf,325412,True
+COMP_00461,Alcon,aeriepharma.com,1950,1000,386892954.0,ch,,,325412,True
+COMP_00462,CARBOGEN AMCIS,carbogen-amcis.com,1990,719,1099568465.0,ch,Basel-Landschaft,Bubendorf,325412,False
+COMP_00463,Teoxane,teoxane.com,2003,651,995575898.0,ch,Geneva,Geneva,325412,False
+COMP_00464,OM Pharma,ompharma.com,1937,560,688186105.0,ch,Geneva,Meyrin,325414,False
+COMP_00465,MSD,msd.ch,1963,552,844174955.0,ch,Lucerne,Lucerne,325412,False
+COMP_00466,AbelaPharm,abelapharm.ch,2006,500,21829920.0,ch,Zurich,Zurich,325412,False
+COMP_00467,Drugs for Neglected Diseases initiative,dndi.org,2003,424,120054373.0,ch,Geneva,Geneva,541714,False
+COMP_00468,Debiopharm,debiopharm.com,1979,420,316015121.0,ch,Vaud,Lausanne,325412,False
+COMP_00469,CRISPR Therapeutics,crisprtx.com,2013,393,126211102.0,ch,Zug,Zug,325414,True
+COMP_00470,AliveDx,alivedx.com,1995,388,221626401.0,ch,Vaud,Eysins,325413,False
+COMP_00471,Helsinn,helsinn.com,1976,364,556666094.0,ch,Ticino,Lugano,325412,False
+COMP_00472,TRB Chemedica,trbchemedica.com,1980,330,504669810.0,ch,Geneva,Carouge,325412,False
+COMP_00473,Celonic,celonic.com,,329,322457196.0,ch,Basel-City,Basel,325414,False
+COMP_00474,ADC Therapeutics,adctherapeutics.com,2011,310,191162807.0,ch,Vaud,Épalinges,325412,True
+COMP_00475,Tillotts Pharma,tillotts.com,1986,310,474083761.0,ch,Aargau,Rheinfelden,325412,False
+COMP_00476,KD Pharma Group,kdpharmagroup.com,1988,290,305860491.0,ch,Ticino,Bioggio,325412,False
+COMP_00477,A. Menarini,menarini.ch,1996,276,59272245.0,ch,Zurich,Zurich,325412,False
